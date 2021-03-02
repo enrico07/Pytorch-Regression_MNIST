@@ -1,2 +1,2 @@
-# regression_MNIST
+# Regression MNIST
 Regression Task for digits MNIST dataset
